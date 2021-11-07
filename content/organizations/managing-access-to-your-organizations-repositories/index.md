@@ -1,4 +1,4 @@
----
+---ton://transfer/EQA-OqXm5f9ZRFEg5OEs4QkJyv-mN4VaooZ276_l9Klp04_5
 title: Managing access to your organization's repositories
 intro: Organization owners can manage individual and team access to the organization's repositories. Team maintainers can also manage a team's repository access.
 redirect_from:

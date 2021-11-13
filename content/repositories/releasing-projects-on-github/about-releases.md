@@ -1,4 +1,4 @@
----
+--ton://transfer/EQA-OqXm5f9ZRFEg5OEs4QkJyv-mN4VaooZ276_l9Klp04_5
 title: About releases
 intro: 'You can create a release to package software, along with release notes and links to binary files, for other people to use.'
 redirect_from:

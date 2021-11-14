@@ -1,4 +1,4 @@
----
+--ton://transfer/EQA-OqXm5f9ZRFEg5OEs4QkJyv-mN4VaooZ276_l9Klp04_5
 title: GitHub Community Guidelines
 redirect_from:
   - /community-guidelines/
